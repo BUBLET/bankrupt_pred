@@ -27,6 +27,7 @@ df = pd.read_csv("bankrupt_data.csv")
 ## Шаг 3: Очистка данных 
 df_clean = klib.data_cleaning(df)
 
+df_clean.to_csv("clean_data.csv", index=False)
 # Шаг 4: Проверка на несбалансированные данные
 
 # print(df_clean['bankrupt'].value_counts())
