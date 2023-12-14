@@ -1,7 +1,7 @@
 # Репозиторий Bankrupt Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![Contributors](https://img.shields.io/github/contributors/your-username/your-repo.svg)](https://github.com/your-username/your-repo/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/BUBLET/bankrupt_pred.svg)](https://github.com/BUBLET/bankrupt_pred/graphs/contributors)
 
 Этот репозиторий содержит код и данные, необходимые для прогнозирования банкротства компаний.
 
