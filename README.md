@@ -3,7 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Contributors](https://img.shields.io/github/contributors/BUBLET/bankrupt_pred.svg)](https://github.com/BUBLET/bankrupt_pred/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/BUBLET/bankrupt_pred.svg)](https://github.com/BUBLET/bankrupt_pred/commits/master)
-Этот репозиторий содержит код и данные, необходимые для прогнозирования банкротства компаний.
+
+Этот проект содержит код и данные, необходимые для прогнозирования банкротства компаний с помощью моделей машинного обучения и нейронных сетей.
+Обучение моделей осуществлялось по данным: [данные](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction){:target="_blank"}
 
 ## Содержание
 
