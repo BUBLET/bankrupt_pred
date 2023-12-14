@@ -5,7 +5,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/BUBLET/bankrupt_pred.svg)](https://github.com/BUBLET/bankrupt_pred/commits/master)  
 
 Этот проект содержит код и данные, необходимые для прогнозирования банкротства компаний с помощью моделей машинного обучения и нейронных сетей.
-Обучение моделей осуществлялось по данным: [данные](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction){:target="_blank"}
+Обучение моделей осуществлялось по данным: [Датасет](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
 
 ## Содержание
 
@@ -28,7 +28,9 @@
 
 1. `helper_functions.py`: Файл с вспомогательными функциями, необходимыми для выполнения прогнозирования банкротства.
 2. `bankrupt_data.csv`: Файл с исходными данными для обучения модели.
-
+3. `bankrupt_pred.py`: Файл с исходным кодом для подготовки данных и обучения моделей.  
+4. `bankrupt_pred.keras`: Обученная нейронная сеть.
+   
 ## Использование кода
 
 ### Шаг 1: Загрузка вспомогательных функций
