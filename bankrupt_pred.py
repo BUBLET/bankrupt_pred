@@ -49,7 +49,7 @@ X_test_scaled = scaler.transform(X_test)
 
 # Шаг 8: Обучение моделей
 
-# Модель 1: Логическая регрессия
+# Модель 1: Логистическая регрессия
 logreg_model = LogisticRegression(max_iter = 10000)
 logreg_model.fit(X_train_scaled, y_train)
 y_probs = logreg_model.predict(X_test_scaled)
